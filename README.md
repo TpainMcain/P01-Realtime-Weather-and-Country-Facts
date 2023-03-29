@@ -28,16 +28,10 @@ Github live page: https://tpainmcain.github.io/P01-Realtime-Weather-and-Country-
 Running the program only requires a web browser.
 
 ## Dependencies:
-N/A
+restcountries.com must be online.
 
-## Installing:
-N/A
-
-## Version History:
-N/A
-
-## License:
-N/A
+## License
+MIT License
 
 ## Acknowledgments:
 https://github.com/cameronoberlies  
