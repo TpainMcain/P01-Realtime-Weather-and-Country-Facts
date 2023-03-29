@@ -15,8 +15,7 @@ Challenges faced were learning to use API data and determine if objects were sep
 API data format is not standardized and many API's use different formats to send data.
 
 ## Links:
-Github repository link: https://github.com/TpainMcain/P01-Realtime-Weather-and-Country-Facts  
-Github live page: https://tpainmcain.github.io/P01-Realtime-Weather-and-Country-Facts/
+https://tpainmcain.github.io/P01-Realtime-Weather-and-Country-Facts/
 
 ## Screenshots:
 ![Alt text](/assets/imgs/sbc1.jpg?raw=true "1")
@@ -25,10 +24,10 @@ Github live page: https://tpainmcain.github.io/P01-Realtime-Weather-and-Country-
 ![Alt text](/assets/imgs/sbc4.jpg?raw=true "4")
 
 ## Getting Started:
-Running the program only requires a web browser.
+Open index.html with default browser.
 
 ## Dependencies:
-restcountries.com must be online.
+Restcountries.com must be online.
 
 ## License
 MIT License
