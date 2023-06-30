@@ -1,33 +1,26 @@
-# Project-01: "Realtime Weather and Country Facts"
+# Project 01: Real-Time Country Info & Weather App
 
 ## Description:
-Project is using two API's to gather information regarding country facts and current weather conditions.  
-The application pulls current data from restcountries.com API and weatherapi.com.  
-Data from Restcountries.com has a hyperlink to wikipedia identifying key facts.   
-Rest countries provides flag images for every country with a .svg or .png file to link to html. 
-Project displays dynamically the flag for every country as an image.
-The restcountries.com api also includes googlemaps links to the country which is also included in the app.  
-The weatherapi.com API pulls current weather information for the capital city of the country searched on. 
-There is a separate search for city only weather.
-There is also a history of searched countries that allows the user to search a previously searched country with a click using local storage.  
-The technologies of code used was javascript, CSS, and html.  
-Challenges faced were learning to use API data and determine if objects were separate or in an array.  
-API data format is not standardized and many API's use different formats to send data.
+This application, built with JavaScript, CSS, and HTML, is designed to retrieve and display a wide array of information about countries around the world, including current weather conditions. The data is dynamically fetched from two primary sources: the Restcountries.com API and the Weatherapi.com API.
 
-## Links:
-https://tpainmcain.github.io/P01-Realtime-Weather-and-Country-Facts/
+## Features
+### Restcountries.com API integration
+This feature-rich API provides detailed information about various countries. It offers an extensive list of data including a hyperlink to Wikipedia for comprehensive country facts, a flag image file (available in .svg or .png format), and a Google Maps link to the country.
+
+Our application dynamically displays the country flag as an image for a more engaging user experience. Additionally, the Google Maps link provided by the API is also included within the app to aid users in visually locating the country.
+
+### Weatherapi.com API integration
+The Weatherapi.com API allows our application to pull real-time weather information for the capital city of the country specified by the user. This includes current conditions, temperature, humidity, and more. As an added feature, we have included a separate search functionality for users who want to retrieve the weather data for other cities as well.
+
+### Search History
+For user convenience, our application offers a search history feature. It allows users to easily revisit their previously searched countries with a single click, utilizing local storage to maintain this data across sessions.
 
 ## Screenshots:
-![Alt text](/assets/imgs/sbc1.jpg?raw=true "1")
-![Alt text](/assets/imgs/sbc2.jpg?raw=true "2")
-![Alt text](/assets/imgs/sbc3.jpg?raw=true "3")
-![Alt text](/assets/imgs/sbc4.jpg?raw=true "4")
 
 ## Getting Started:
 Open index.html with default browser.
 
 ## Dependencies:
-Restcountries.com must be online.
 
 ## License
 MIT License
